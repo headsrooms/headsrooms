@@ -24,8 +24,3 @@ preview
 <a href="https://twitter.com/headsrooms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="headsrooms" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/headsrooms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="headsrooms" height="30" width="30" /></a>
 </p>
-About
-Addons
-Support
-Developed in India 🇮🇳
-Buy Me A Coffee
