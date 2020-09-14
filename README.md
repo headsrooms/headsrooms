@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **unlaunched project**
 
-- 🌱 I’m currently learning **event-driven architectures and Redis Streams**
+- 🌱 I’m currently learning **event-driven architectures, Redis Streams and Kubernetes**
 
 - 📫 How to reach me **headsrooms@gmail.com**
 
