@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo Cabezas</h1>
 <h3 align="center">A Python lover interested in back-end, machine learning and data.</h3>
 
-- 🔭 I’m currently working on **unlaunched project**
+- 🔭 I’m currently working on **https://github.com/headsrooms/historedge-backend**
 
 - 🌱 I’m currently learning **event-driven architectures, Redis Streams and Kubernetes**
 
