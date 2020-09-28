@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **https://github.com/headsrooms/historedge-backend**
 
-- 🌱 I’m currently learning **event-driven architectures, Redis Streams and Kubernetes**
+- 🌱 I’m currently learning **event-driven architectures, Redis Streams, Kubernetes and Traefik**
 
 - 📫 How to reach me **headsrooms@gmail.com**
 
