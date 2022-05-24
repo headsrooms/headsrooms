@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo Cabezas</h1>
 <h3 align="center">A Python lover interested in back-end, machine learning and data engineering.</h3
 
-- 📫 How to reach me **headsrooms@gmail.com**
+📫 How to reach me **headsrooms@gmail.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=headsrooms&show_icons=true" alt="headsrooms" /></p>
 
