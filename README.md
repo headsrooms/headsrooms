@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo Cabezas</h1>
-<h3 align="center">A Python lover interested in back-end, machine learning and data engineering.</h3
+<h2 align="center">A Python lover interested in back-end, machine learning and data engineering.</h2>
+
+<h3 align="center">My latest toy project: <a href="https://artistator.com">🎸 Artistator 🥁</a></h3>
 
 📫 How to reach me **headsrooms@gmail.com**
 
