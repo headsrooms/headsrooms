@@ -10,5 +10,5 @@
 <p align="center">
 <a href="https://linkedin.com/in/headsrooms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin profile" height="30" width="30" /></a>
  <a href="https://t.me/headsrooms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram account" height="30" width="30" /></a>
-  <a href="https://open.spotify.com/user/rockandsteel?si=7bae00d8be1241f7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="spotify profile" height="30" width="30" /></a>
+  <a href="https://listen.tidal.com/user/26638151" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tidal.svg" alt="tidal profile" height="30" width="30" /></a>
 </p>
